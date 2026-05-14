@@ -1,0 +1,6 @@
+names:
+- Nuclei
+nc: 1
+test: /content/drive/MyDrive/Colab/Nuclei_Seg/yolo_dataset/test/images
+train: /content/drive/MyDrive/Colab/Nuclei_Seg/yolo_dataset/train/images
+val: /content/drive/MyDrive/Colab/Nuclei_Seg/yolo_dataset/valid/images
